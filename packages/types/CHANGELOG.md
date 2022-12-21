@@ -1,5 +1,11 @@
 # @fuel-wallet/types
 
+## 0.2.1
+
+### Patch Changes
+
+- [#376](https://github.com/FuelLabs/fuels-wallet/pull/376) [`75b8951`](https://github.com/FuelLabs/fuels-wallet/commit/75b8951b01e45e8d61d307c5432f03e2e91906e4) Thanks [@pedronauck](https://github.com/pedronauck)! - Fix(sdk): ts and eslint warnings after update deps
+
 ## 0.2.0
 
 ### Minor Changes
